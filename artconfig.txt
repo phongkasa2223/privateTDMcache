@@ -1,0 +1,71 @@
+//Inventory
+AddSimpleModel(-1, 19379, -1000, "inventory.dff", "inventory.txd")
+AddSimpleModel(-1, 19379, -1001, "menu.dff", "menu.txd")
+
+//skin
+AddCharModel(2, 20001, "skin/concac.dff", "skin/concac.txd")
+AddCharModel(2, 20002, "skin/Hatsune_Miku.dff", "skin/Hatsune_Miku.txd")
+AddCharModel(2, 20003, "skin/Buford.dff", "skin/Buford.txd")
+AddCharModel(2, 20004, "skin/andre.dff", "skin/andre.txd")
+AddCharModel(2, 20005, "skin/DrDoofenshmirtz.dff", "skin/DrDoofenshmirtz.txd")
+AddCharModel(2, 20006, "skin/Ferb.dff", "skin/Ferb.txd")
+AddCharModel(2, 20007, "skin/PerrythePlatypus.dff", "skin/PerrythePlatypus.txd")
+AddCharModel(2, 20008, "skin/Phineas.dff", "skin/Phineas.txd")
+AddCharModel(2, 20009, "skin/skin.dff", "skin/skin.txd")
+AddCharModel(2, 20010, "skin/swmotr5.dff", "skin/swmotr5.txd")
+AddCharModel(2, 20011, "skin/Tommy.dff", "skin/Tommy.txd")
+
+AddCharModel(2, 20012, "test/test1.dff", "test/test1.txd")
+AddCharModel(2, 20013, "test/test2.dff", "test/test2.txd")
+AddCharModel(2, 20014, "test/test3.dff", "test/test3.txd")
+AddCharModel(2, 20015, "test/test4.dff", "test/test4.txd")
+AddCharModel(2, 20016, "test/cat.dff", "test/cat.txd")
+
+//Vehicle
+//Huntley v3
+AddSimpleModel(-1, 19482, -3001, "vehicles/huntley/huntley.dff", "vehicles/huntley/huntley_1.txd")
+AddSimpleModel(-1, 19482, -3002, "vehicles/huntley/huntley.dff", "vehicles/huntley/huntley_2.txd")
+AddSimpleModel(-1, 19482, -3003, "vehicles/huntley/huntley.dff", "vehicles/huntley/huntley_3.txd")
+AddSimpleModel(-1, 19482, -3004, "vehicles/huntley/huntley.dff", "vehicles/huntley/huntley_4.txd")
+AddSimpleModel(-1, 19482, -3005, "vehicles/huntley/huntley.dff", "vehicles/huntley/huntley_5.txd")
+AddSimpleModel(-1, 19482, -3006, "vehicles/huntley/huntley.dff", "vehicles/huntley/huntley_6.txd")
+AddSimpleModel(-1, 19482, -3007, "vehicles/huntley/huntley.dff", "vehicles/huntley/huntley_7.txd")
+AddSimpleModel(-1, 19482, -3008, "vehicles/huntley/huntley.dff", "vehicles/huntley/huntley_8.txd")
+AddSimpleModel(-1, 19482, -3009, "vehicles/huntley/huntley.dff", "vehicles/huntley/huntley_9.txd")
+AddSimpleModel(-1, 19482, -3010, "vehicles/huntley/huntley.dff", "vehicles/huntley/huntley_10.txd")
+
+//Huntley V2
+AddSimpleModel(-1, 19482, -3000, "vehicles/huntley/bonus_v3.dff", "vehicles/huntley/bonus_v3.txd");
+AddSimpleModel(-1, 19482, -3011, "vehicles/huntley/huntley_v2.dff", "vehicles/huntley/huntley_v2a.txd");
+AddSimpleModel(-1, 19482, -3012, "vehicles/huntley/huntley_v2.dff", "vehicles/huntley/huntley_v2b.txd");
+AddSimpleModel(-1, 19482, -3013, "vehicles/huntley/huntley_v2.dff", "vehicles/huntley/huntley_v2c.txd");
+AddSimpleModel(-1, 19482, -3014, "vehicles/huntley/huntley_v2.dff", "vehicles/huntley/huntley_v2d.txd");
+AddSimpleModel(-1, 19482, -3015, "vehicles/huntley/huntley_v2.dff", "vehicles/huntley/huntley_v2e.txd");
+AddSimpleModel(-1, 19482, -3016, "vehicles/huntley/huntley_v2.dff", "vehicles/huntley/huntley_v2f.txd");
+AddSimpleModel(-1, 19482, -3017, "vehicles/huntley/huntley_v2.dff", "vehicles/huntley/huntley_v2g.txd");
+AddSimpleModel(-1, 19482, -3018, "vehicles/huntley/huntley_v2.dff", "vehicles/huntley/huntley_v2h.txd");
+
+AddSimpleModel(-1, 19482, -3021, "vehicles/sultan/sultan.dff", "vehicles/sultan/sultan_1.txd")
+AddSimpleModel(-1, 19482, -3022, "vehicles/sultan/sultan.dff", "vehicles/sultan/sultan_2.txd")
+AddSimpleModel(-1, 19482, -3023, "vehicles/sultan/sultan.dff", "vehicles/sultan/sultan_3.txd")
+AddSimpleModel(-1, 19482, -3024, "vehicles/sultan/sultan.dff", "vehicles/sultan/sultan_4.txd")
+AddSimpleModel(-1, 19482, -3025, "vehicles/sultan/sultan.dff", "vehicles/sultan/sultan_5.txd")
+AddSimpleModel(-1, 19482, -3026, "vehicles/sultan/sultan.dff", "vehicles/sultan/sultan_6.txd")
+AddSimpleModel(-1, 19482, -3027, "vehicles/sultan/sultan.dff", "vehicles/sultan/sultan_7.txd")
+AddSimpleModel(-1, 19482, -3028, "vehicles/sultan/sultan.dff", "vehicles/sultan/sultan_8.txd")
+AddSimpleModel(-1, 19482, -3029, "vehicles/sultan/sultan.dff", "vehicles/sultan/sultan_9.txd")
+AddSimpleModel(-1, 19482, -3030, "vehicles/sultan/sultan.dff", "vehicles/sultan/sultan_10.txd")
+
+
+// May khoan khoang san
+AddSimpleModel(-1, 1923, -1081, "maykhoanthuong.dff", "maykhoanthuong.txd")
+AddSimpleModel(-1, 1923, -1082, "maykhoanvip.dff", "maykhoanvip.txd")
+
+// Underground Drift Parking - Lisiu
+AddSimpleModel(-1, 1923, -1116, "drift_parking_garage.dff", "drift_parking_garage.txd")
+
+
+
+
+
+
