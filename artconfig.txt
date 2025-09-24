@@ -14,6 +14,7 @@ AddCharModel(2, 20008, "skin/Phineas.dff", "skin/Phineas.txd")
 AddCharModel(2, 20009, "skin/skin.dff", "skin/skin.txd")
 AddCharModel(2, 20010, "skin/swmotr5.dff", "skin/swmotr5.txd")
 AddCharModel(2, 20011, "skin/Tommy.dff", "skin/Tommy.txd")
+AddCharModel(2, 20021, "skin/Clara.dff", "skin/Clara.txd")
 
 AddCharModel(2, 20012, "test/test1.dff", "test/test1.txd")
 AddCharModel(2, 20013, "test/test2.dff", "test/test2.txd")
@@ -75,6 +76,7 @@ AddSimpleModel(-1, 1923, -1082, "maykhoanvip.dff", "maykhoanvip.txd")
 
 // Underground Drift Parking - Lisiu
 AddSimpleModel(-1, 1923, -1116, "drift_parking_garage.dff", "drift_parking_garage.txd")
+
 
 
 
