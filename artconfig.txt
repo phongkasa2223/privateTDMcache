@@ -23,6 +23,7 @@ AddCharModel(2, 20016, "test/cat.dff", "test/cat.txd")
 AddCharModel(2, 20017, "test/test5.dff", "test/test5.txd")
 AddCharModel(2, 20018, "test/test6.dff", "test/test6.txd")
 AddCharModel(2, 20019, "test/test7.dff", "test/test7.txd")
+AddCharModel(2, 20020, "test/test8.dff", "test/test8.txd")
 
 //Vehicle
 // Huntley V3
@@ -74,6 +75,7 @@ AddSimpleModel(-1, 1923, -1082, "maykhoanvip.dff", "maykhoanvip.txd")
 
 // Underground Drift Parking - Lisiu
 AddSimpleModel(-1, 1923, -1116, "drift_parking_garage.dff", "drift_parking_garage.txd")
+
 
 
 
