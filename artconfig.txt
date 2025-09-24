@@ -73,6 +73,9 @@ AddSimpleModel(-1, 19482, -3029, "vehicles/sultan/sultan.dff", "vehicles/sultan/
 AddSimpleModel(-1, 19482, -3030, "vehicles/sultan/sultan.dff", "vehicles/sultan/sultan_10.txd")
 AddSimpleModel(-1, 19482, -3031, "vehicles/sultan/sultan_mx.dff", "vehicles/sultan/sultan_mx.txd")
 
+// weaponskin
+AddSimpleModel(-1, 19482, -5001, "weaponskin/kaido/m4_kaido.dff", "weaponskin/kaido/m4_kaido.txd")
+AddSimpleModel(-1, 19482, -5002, "weaponskin/kaido/kaido.dff", "weaponskin/kaido/kaido.txd")
 
 // May khoan khoang san
 AddSimpleModel(-1, 1923, -1081, "maykhoanthuong.dff", "maykhoanthuong.txd")
@@ -80,6 +83,7 @@ AddSimpleModel(-1, 1923, -1082, "maykhoanvip.dff", "maykhoanvip.txd")
 
 // Underground Drift Parking - Lisiu
 AddSimpleModel(-1, 1923, -1116, "drift_parking_garage.dff", "drift_parking_garage.txd")
+
 
 
 
