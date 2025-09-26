@@ -15,6 +15,7 @@ AddCharModel(2, 20009, "skin/skin.dff", "skin/skin.txd")
 AddCharModel(2, 20010, "skin/swmotr5.dff", "skin/swmotr5.txd")
 AddCharModel(2, 20011, "skin/Tommy.dff", "skin/Tommy.txd")
 AddCharModel(2, 20021, "skin/Clara.dff", "skin/Clara.txd")
+AddCharModel(2, 20031, "skin/Nyaruko.dff", "skin/Nyaruko.txd")
 
 AddCharModel(2, 20012, "test/test1.dff", "test/test1.txd")
 AddCharModel(2, 20013, "test/test2.dff", "test/test2.txd")
@@ -33,6 +34,7 @@ AddCharModel(2, 20026, "test/test13.dff", "test/test13.txd")
 AddCharModel(2, 20027, "test/test14.dff", "test/test14.txd")
 AddCharModel(2, 20028, "test/test15.dff", "test/test15.txd")
 AddCharModel(2, 20029, "test/test16.dff", "test/test16.txd")
+AddCharModel(2, 20030, "test/test17.dff", "test/test17.txd")
 
 //Vehicle
 // Huntley V3
@@ -87,6 +89,7 @@ AddSimpleModel(-1, 1923, -1082, "maykhoanvip.dff", "maykhoanvip.txd")
 
 // Underground Drift Parking - Lisiu
 AddSimpleModel(-1, 1923, -1116, "drift_parking_garage.dff", "drift_parking_garage.txd")
+
 
 
 
