@@ -83,12 +83,19 @@ AddSimpleModel(-1, 19482, -3031, "vehicles/sultan/sultan_mx.dff", "vehicles/sult
 AddSimpleModel(-1, 19482, -5001, "weaponskin/kaido/m4_kaido.dff", "weaponskin/kaido/m4_kaido.txd")
 AddSimpleModel(-1, 19482, -5002, "weaponskin/kaido/kaido.dff", "weaponskin/kaido/kaido.txd")
 
+AddSimpleModel(-1, 19482, -5003, "weaponskin/minions/m4_minions.dff", "objects/minions/m4_minions.txd")
+AddSimpleModel(-1, 19482, -5004, "weaponskin/minions/minions.dff", "objects/minions/minions.txd")
+
+AddSimpleModel(-1, 19482, -5005, "weaponskin/necroking/m4_necroking.dff", "objects/necroking/m4_necroking.txd")
+AddSimpleModel(-1, 19482, -5006, "weaponskin/necroking/necroking.dff", "objects/necroking/necroking.txd")
+
 // May khoan khoang san
 AddSimpleModel(-1, 1923, -1081, "maykhoanthuong.dff", "maykhoanthuong.txd")
 AddSimpleModel(-1, 1923, -1082, "maykhoanvip.dff", "maykhoanvip.txd")
 
 // Underground Drift Parking - Lisiu
 AddSimpleModel(-1, 1923, -1116, "drift_parking_garage.dff", "drift_parking_garage.txd")
+
 
 
 
