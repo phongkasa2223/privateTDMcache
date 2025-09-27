@@ -17,6 +17,10 @@ AddCharModel(2, 20011, "skin/Tommy.dff", "skin/Tommy.txd")
 AddCharModel(2, 20021, "skin/Clara.dff", "skin/Clara.txd")
 AddCharModel(2, 20031, "skin/Nyaruko.dff", "skin/Nyaruko.txd")
 
+// Guild
+//ROC
+AddCharModel(2, 20036, "skin/ROC.dff", "skin/ROC.txd")
+
 AddCharModel(2, 20012, "test/test1.dff", "test/test1.txd")
 AddCharModel(2, 20013, "test/test2.dff", "test/test2.txd")
 AddCharModel(2, 20014, "test/test3.dff", "test/test3.txd")
@@ -35,6 +39,14 @@ AddCharModel(2, 20027, "test/test14.dff", "test/test14.txd")
 AddCharModel(2, 20028, "test/test15.dff", "test/test15.txd")
 AddCharModel(2, 20029, "test/test16.dff", "test/test16.txd")
 AddCharModel(2, 20030, "test/test17.dff", "test/test17.txd")
+
+// Jasry Ostavi
+AddCharModel(2, 20032, "test/test18.dff", "test/test18.txd")
+AddCharModel(2, 20033, "test/test19.dff", "test/test19.txd")
+
+// Shincz SMurderous
+AddCharModel(2, 20034, "test/test20.dff", "test/test20.txd")
+AddCharModel(2, 20035, "test/test21.dff", "test/test21.txd")
 
 //Vehicle
 // Huntley V3
@@ -95,6 +107,7 @@ AddSimpleModel(-1, 1923, -1082, "maykhoanvip.dff", "maykhoanvip.txd")
 
 // Underground Drift Parking - Lisiu
 AddSimpleModel(-1, 1923, -1116, "drift_parking_garage.dff", "drift_parking_garage.txd")
+
 
 
 
