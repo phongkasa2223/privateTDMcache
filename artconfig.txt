@@ -101,12 +101,16 @@ AddSimpleModel(-1, 19482, -5004, "weaponskin/minions/minions.dff", "weaponskin/m
 AddSimpleModel(-1, 19482, -5005, "weaponskin/necroking/m4_necroking.dff", "weaponskin/necroking/m4_necroking.txd")
 AddSimpleModel(-1, 19482, -5006, "weaponskin/necroking/necroking.dff", "weaponskin/necroking/necroking.txd")
 
+AddSimpleModel(-1, 19482, -5007, "weaponskin/sunny/m4_sunny.dff", "weaponskin/sunny/m4_sunny.txd")
+AddSimpleModel(-1, 19482, -5008, "weaponskin/sunny/sunny.dff", "weaponskin/sunny/sunny.txd")
+
 // May khoan khoang san
 AddSimpleModel(-1, 1923, -1081, "maykhoanthuong.dff", "maykhoanthuong.txd")
 AddSimpleModel(-1, 1923, -1082, "maykhoanvip.dff", "maykhoanvip.txd")
 
 // Underground Drift Parking - Lisiu
 AddSimpleModel(-1, 1923, -1116, "drift_parking_garage.dff", "drift_parking_garage.txd")
+
 
 
 
