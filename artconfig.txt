@@ -48,6 +48,12 @@ AddCharModel(2, 20033, "test/test19.dff", "test/test19.txd")
 AddCharModel(2, 20034, "test/test20.dff", "test/test20.txd")
 AddCharModel(2, 20035, "test/test21.dff", "test/test21.txd")
 
+// Canhsat Rgame
+AddCharModel(2, 20037, "test/test22.dff", "test/test22.txd")
+
+// Dangcongsan Vietnam
+AddCharModel(2, 20038, "test/test23.dff", "test/test23.txd")
+
 //Vehicle
 // Huntley V3
 AddSimpleModel(-1, 19482, -3000, "vehicles/huntley/bonus_v3.dff", "vehicles/huntley/bonus_v3.txd")
@@ -110,6 +116,7 @@ AddSimpleModel(-1, 1923, -1082, "maykhoanvip.dff", "maykhoanvip.txd")
 
 // Underground Drift Parking - Lisiu
 AddSimpleModel(-1, 1923, -1116, "drift_parking_garage.dff", "drift_parking_garage.txd")
+
 
 
 
