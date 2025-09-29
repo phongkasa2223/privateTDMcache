@@ -110,8 +110,15 @@ AddSimpleModel(-1, 19482, -5006, "weaponskin/necroking/necroking.dff", "weaponsk
 AddSimpleModel(-1, 19482, -5007, "weaponskin/sunny/m4_sunny.dff", "weaponskin/sunny/m4_sunny.txd")
 AddSimpleModel(-1, 19482, -5008, "weaponskin/sunny/sunny.dff", "weaponskin/sunny/sunny.txd")
 
-AddSimpleModel(-1, 19482, -5009, "weaponskin/god/m4_god.dff", "weaponskin/god/m4_god.txd")
-AddSimpleModel(-1, 19482, -5010, "weaponskin/god/god.dff", "weaponskin/god/god.txd")
+AddSimpleModel(-1, 19482, -5009, "weaponskin/inferno/m4_inferno.dff", "weaponskin/inferno/m4_inferno.txd")
+AddSimpleModel(-1, 19482, -5010, "weaponskin/inferno/inferno.dff", "weaponskin/inferno/inferno.txd")
+
+AddSimpleModel(-1, 19482, -5011, "weaponskin/stargazer/m4_stargazer.dff", "weaponskin/stargazer/m4_stargazer.txd")
+AddSimpleModel(-1, 19482, -5012, "weaponskin/stargazer/stargazer.dff", "weaponskin/stargazer/stargazer.txd")
+
+// AK47 weaponskin
+AddSimpleModel(-1, 19482, -5021, "weaponskin/vampire/ak_vampire.dff", "weaponskin/vampire/ak_vampire.txd")
+AddSimpleModel(-1, 19482, -5022, "weaponskin/vampire/vampire.dff", "weaponskin/vampire/vampire.txd")
 
 // Mp5 weaponskin
 AddSimpleModel(-1, 19482, -5031, "weaponskin/dragon/mp5_dragon.dff", "weaponskin/dragon/mp5_dragon.txd")
@@ -123,6 +130,7 @@ AddSimpleModel(-1, 1923, -1082, "maykhoanvip.dff", "maykhoanvip.txd")
 
 // Underground Drift Parking - Lisiu
 AddSimpleModel(-1, 1923, -1116, "drift_parking_garage.dff", "drift_parking_garage.txd")
+
 
 
 
