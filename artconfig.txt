@@ -20,6 +20,8 @@ AddCharModel(2, 20031, "skin/Nyaruko.dff", "skin/Nyaruko.txd")
 // Guild
 //ROB
 AddCharModel(2, 20036, "skin/ROB.dff", "skin/ROB.txd")
+//QPD
+AddCharModel(2, 20039, "skin/QPD.dff", "skin/QPD.txd")
 
 AddCharModel(2, 20012, "test/test1.dff", "test/test1.txd")
 AddCharModel(2, 20013, "test/test2.dff", "test/test2.txd")
@@ -116,6 +118,9 @@ AddSimpleModel(-1, 19482, -5010, "weaponskin/inferno/inferno.dff", "weaponskin/i
 AddSimpleModel(-1, 19482, -5011, "weaponskin/stargazer/m4_stargazer.dff", "weaponskin/stargazer/m4_stargazer.txd")
 AddSimpleModel(-1, 19482, -5012, "weaponskin/stargazer/stargazer.dff", "weaponskin/stargazer/stargazer.txd")
 
+AddSimpleModel(-1, 19482, -5013, "weaponskin/watershuriken/m4_watershuriken.dff", "weaponskin/watershuriken/m4_watershuriken.txd")
+AddSimpleModel(-1, 19482, -5014, "weaponskin/watershuriken/watershuriken.dff", "weaponskin/watershuriken/watershuriken.txd")
+
 // AK47 weaponskin
 AddSimpleModel(-1, 19482, -5021, "weaponskin/vampire/ak_vampire.dff", "weaponskin/vampire/ak_vampire.txd")
 AddSimpleModel(-1, 19482, -5022, "weaponskin/vampire/vampire.dff", "weaponskin/vampire/vampire.txd")
@@ -130,6 +135,7 @@ AddSimpleModel(-1, 1923, -1082, "maykhoanvip.dff", "maykhoanvip.txd")
 
 // Underground Drift Parking - Lisiu
 AddSimpleModel(-1, 1923, -1116, "drift_parking_garage.dff", "drift_parking_garage.txd")
+
 
 
 
