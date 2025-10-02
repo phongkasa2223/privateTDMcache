@@ -1,6 +1,7 @@
 //Inventory
 AddSimpleModel(-1, 19379, -1000, "inventory.dff", "inventory.txd")
 AddSimpleModel(-1, 19379, -1001, "menu.dff", "menu.txd")
+AddSimpleModel(-1, 19379, -1002, "shop.dff", "shop.txd")
 
 //skin
 AddCharModel(2, 20001, "skin/concac.dff", "skin/concac.txd")
@@ -147,6 +148,7 @@ AddSimpleModel(-1, 1923, -1082, "maykhoanvip.dff", "maykhoanvip.txd")
 
 // Underground Drift Parking - Lisiu
 AddSimpleModel(-1, 1923, -1116, "drift_parking_garage.dff", "drift_parking_garage.txd")
+
 
 
 
