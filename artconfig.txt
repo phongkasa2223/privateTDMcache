@@ -106,6 +106,12 @@ AddSimpleModel(-1, 19482, -4902, "weaponskin/non-finish/m4_heavy.dff", "weaponsk
 
 AddSimpleModel(-1, 19482, -4903, "weaponskin/non-finish/m4_satan.dff", "weaponskin/non-finish/m4_satan.txd")
 
+AddSimpleModel(-1, 19482, -4904, "weaponskin/non-finish/m4_hellfire.dff", "weaponskin/non-finish/m4_hellfire.txd")
+
+AddSimpleModel(-1, 19482, -4905, "weaponskin/non-finish/m4_griffin.dff", "weaponskin/non-finish/m4_griffin.txd")
+
+AddSimpleModel(-1, 19482, -4906, "weaponskin/non-finish/m4_golden.dff", "weaponskin/non-finish/m4_golden.txd")
+
 AddSimpleModel(-1, 19482, -5001, "weaponskin/kaido/m4_kaido.dff", "weaponskin/kaido/m4_kaido.txd")
 AddSimpleModel(-1, 19482, -5002, "weaponskin/kaido/kaido.dff", "weaponskin/kaido/kaido.txd")
 
@@ -141,6 +147,7 @@ AddSimpleModel(-1, 1923, -1082, "maykhoanvip.dff", "maykhoanvip.txd")
 
 // Underground Drift Parking - Lisiu
 AddSimpleModel(-1, 1923, -1116, "drift_parking_garage.dff", "drift_parking_garage.txd")
+
 
 
 
