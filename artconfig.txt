@@ -320,26 +320,26 @@ AddSimpleModel(-1, 19482, -5012, "weaponskin/stargazer/stargazer.dff", "weaponsk
 AddSimpleModel(-1, 19482, -5013, "weaponskin/watershuriken/m4_watershuriken.dff", "weaponskin/watershuriken/m4_watershuriken.txd")
 AddSimpleModel(-1, 19482, -5014, "weaponskin/watershuriken/watershuriken.dff", "weaponskin/watershuriken/watershuriken.txd")
 
-AddSimpleModel(-1, 19482, -5015, "objects/nightbringer/m4_nightbringer.dff", "objects/nightbringer/m4_nightbringer.txd")
-AddSimpleModel(-1, 19482, -5016, "objects/nightbringer/nightbringer.dff", "objects/nightbringer/nightbringer.txd")
+AddSimpleModel(-1, 19482, -5015, "weaponskin/nightbringer/m4_nightbringer.dff", "weaponskin/nightbringer/m4_nightbringer.txd")
+AddSimpleModel(-1, 19482, -5016, "weaponskin/nightbringer/nightbringer.dff", "weaponskin/nightbringer/nightbringer.txd")
 
-AddSimpleModel(-1, 19482, -5017, "objects/oggy/m4_oggy.dff", "objects/oggy/m4_oggy.txd")
-AddSimpleModel(-1, 19482, -5018, "objects/oggy/oggy.dff", "objects/oggy/oggy.txd")
+AddSimpleModel(-1, 19482, -5017, "weaponskin/oggy/m4_oggy.dff", "weaponskin/oggy/m4_oggy.txd")
+AddSimpleModel(-1, 19482, -5018, "weaponskin/oggy/oggy.dff", "weaponskin/oggy/oggy.txd")
 
-AddSimpleModel(-1, 19482, -5019, "objects/embejack/m4_embejack.dff", "objects/embejack/m4_embejack.txd")
-AddSimpleModel(-1, 19482, -5020, "objects/embejack/embejack.dff", "objects/embejack/embejack.txd")
+AddSimpleModel(-1, 19482, -5019, "weaponskin/embejack/m4_embejack.dff", "weaponskin/embejack/m4_embejack.txd")
+AddSimpleModel(-1, 19482, -5020, "weaponskin/embejack/embejack.dff", "weaponskin/embejack/embejack.txd")
 
-AddSimpleModel(-1, 19482, -5021, "objects/starofwar/m4_starofwar.dff", "objects/starofwar/m4_starofwar.txd")
-AddSimpleModel(-1, 19482, -5022, "objects/starofwar/starofwar.dff", "objects/starofwar/starofwar.txd")
+AddSimpleModel(-1, 19482, -5021, "weaponskin/starofwar/m4_starofwar.dff", "weaponskin/starofwar/m4_starofwar.txd")
+AddSimpleModel(-1, 19482, -5022, "weaponskin/starofwar/starofwar.dff", "weaponskin/starofwar/starofwar.txd")
 
-AddSimpleModel(-1, 19482, -5023, "objects/teemo/m4_teemo.dff", "objects/teemo/m4_teemo.txd")
-AddSimpleModel(-1, 19482, -5024, "objects/teemo/teemo.dff", "objects/teemo/teemo.txd")
+AddSimpleModel(-1, 19482, -5023, "weaponskin/teemo/m4_teemo.dff", "weaponskin/teemo/m4_teemo.txd")
+AddSimpleModel(-1, 19482, -5024, "weaponskin/teemo/teemo.dff", "weaponskin/teemo/teemo.txd")
 
-AddSimpleModel(-1, 19482, -5025, "objects/drzball/m4_drzball.dff", "objects/drzball/m4_drzball.txd")
-AddSimpleModel(-1, 19482, -5026, "objects/drzball/drzball.dff", "objects/drzball/drzball.txd")
+AddSimpleModel(-1, 19482, -5025, "weaponskin/drzball/m4_drzball.dff", "weaponskin/drzball/m4_drzball.txd")
+AddSimpleModel(-1, 19482, -5026, "weaponskin/drzball/drzball.dff", "weaponskin/drzball/drzball.txd")
 
-AddSimpleModel(-1, 19482, -5027, "objects/evilshadow/m4_evilshadow.dff", "objects/evilshadow/m4_evilshadow.txd")
-AddSimpleModel(-1, 19482, -5028, "objects/evilshadow/evilshadow.dff", "objects/evilshadow/evilshadow.txd")
+AddSimpleModel(-1, 19482, -5027, "weaponskin/evilshadow/m4_evilshadow.dff", "weaponskin/evilshadow/m4_evilshadow.txd")
+AddSimpleModel(-1, 19482, -5028, "weaponskin/evilshadow/evilshadow.dff", "weaponskin/evilshadow/evilshadow.txd")
 
 // AK47 weaponskin
 AddSimpleModel(-1, 19482, -5101, "weaponskin/vampire/ak_vampire.dff", "weaponskin/vampire/ak_vampire.txd")
@@ -359,6 +359,7 @@ AddSimpleModel(-1, 1923, -1084, "tainguyen_lon.dff", "tainguyen.txd")
 
 // Underground Drift Parking - Lisiu
 AddSimpleModel(-1, 1923, -1116, "drift_parking_garage.dff", "drift_parking_garage.txd")
+
 
 
 
