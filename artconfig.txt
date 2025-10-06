@@ -203,6 +203,9 @@ AddCharModel(2, 20031, "skin/Nyaruko.dff", "skin/Nyaruko.txd")
 AddCharModel(230, 20040, "skin/girl.dff", "skin/girl.txd")
 AddCharModel(2, 20041, "skin/hellokitty.dff", "skin/hellokitty.txd")
 AddCharModel(230, 20042, "skin/osk.dff", "skin/osk.txd")
+AddCharModel(230, 20043, "skin/girl2.dff", "skin/girl2.txd")
+AddCharModel(230, 20044, "skin/girl3.dff", "skin/girl3.txd")
+AddCharModel(230, 20045, "skin/yumemi.dff", "skin/yumemi.txd")
 
 // Guild
 //ROB
@@ -359,6 +362,7 @@ AddSimpleModel(-1, 1923, -1084, "tainguyen_lon.dff", "tainguyen.txd")
 
 // Underground Drift Parking - Lisiu
 AddSimpleModel(-1, 1923, -1116, "drift_parking_garage.dff", "drift_parking_garage.txd")
+
 
 
 
