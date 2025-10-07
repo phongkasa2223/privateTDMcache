@@ -366,6 +366,10 @@ AddSimpleModel(-1, 1923, -1084, "tainguyen_lon.dff", "tainguyen.txd")
 // Underground Drift Parking - Lisiu
 AddSimpleModel(-1, 1923, -1116, "drift_parking_garage.dff", "drift_parking_garage.txd")
 
+// Toys
+AddSimpleModel(-1, 19482, -2000, "toys/balorongxanh.dff", "toys/balorongxanh.txd")
+
+
 
 
 
