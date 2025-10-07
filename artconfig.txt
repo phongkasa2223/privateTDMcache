@@ -352,6 +352,9 @@ AddSimpleModel(-1, 19482, -5102, "weaponskin/vampire/vampire.dff", "weaponskin/v
 AddSimpleModel(-1, 19482, -5201, "weaponskin/dragon/mp5_dragon.dff", "weaponskin/dragon/mp5_dragon.txd")
 AddSimpleModel(-1, 19482, -5202, "weaponskin/dragon/dragon.dff", "weaponskin/dragon/dragon.txd")
 
+// Deagle weaponskin
+AddSimpleModel(-1, 19482, -5301, "weaponskin/horizon/deagle_horizon.dff", "weaponskin/horizon/deagle_horizon.txd")
+
 // May khoan khoang san
 AddSimpleModel(-1, 1923, -1081, "maykhoanthuong.dff", "maykhoanthuong.txd")
 AddSimpleModel(-1, 1923, -1082, "maykhoanvip.dff", "maykhoanvip.txd")
@@ -362,6 +365,7 @@ AddSimpleModel(-1, 1923, -1084, "tainguyen_lon.dff", "tainguyen.txd")
 
 // Underground Drift Parking - Lisiu
 AddSimpleModel(-1, 1923, -1116, "drift_parking_garage.dff", "drift_parking_garage.txd")
+
 
 
 
