@@ -366,10 +366,10 @@ AddSimpleModel(-1, 19482, -5044, "weaponskin/sonic/sonic.dff", "weaponskin/sonic
 // AK47 weaponskin
 AddSimpleModel(-1, 19482, -5101, "weaponskin/vampire/ak_vampire.dff", "weaponskin/vampire/ak_vampire.txd")
 AddSimpleModel(-1, 19482, -5102, "weaponskin/vampire/vampire.dff", "weaponskin/vampire/vampire.txd")
-AddSimpleModel(-1, 19482, -5103, "objects/godzilla/ak_godzilla.dff", "objects/godzilla/ak_godzilla.txd");
-AddSimpleModel(-1, 19482, -5104, "objects/godzilla/godzilla.dff", "objects/godzilla/godzilla.txd");
-AddSimpleModel(-1, 19482, -5105, "objects/chaos/ak_chaos.dff", "objects/chaos/ak_chaos.txd");
-AddSimpleModel(-1, 19482, -5106, "objects/chaos/chaos.dff", "objects/chaos/chaos.txd");
+AddSimpleModel(-1, 19482, -5103, "weaponskin/godzilla/ak_godzilla.dff", "weaponskin/godzilla/ak_godzilla.txd")
+AddSimpleModel(-1, 19482, -5104, "weaponskin/godzilla/godzilla.dff", "weaponskin/godzilla/godzilla.txd")
+AddSimpleModel(-1, 19482, -5105, "weaponskin/chaos/ak_chaos.dff", "weaponskin/chaos/ak_chaos.txd")
+AddSimpleModel(-1, 19482, -5106, "weaponskin/chaos/chaos.dff", "weaponskin/chaos/chaos.txd")
 
 // Mp5 weaponskin
 AddSimpleModel(-1, 19482, -5201, "weaponskin/dragon/mp5_dragon.dff", "weaponskin/dragon/mp5_dragon.txd")
@@ -391,6 +391,7 @@ AddSimpleModel(-1, 1923, -1116, "drift_parking_garage.dff", "drift_parking_garag
 
 // Toys
 AddSimpleModel(-1, 19482, -2000, "toys/balorongxanh.dff", "toys/balorongxanh.txd")
+
 
 
 
