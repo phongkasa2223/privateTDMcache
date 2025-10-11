@@ -378,6 +378,10 @@ AddSimpleModel(-1, 19482, -5202, "weaponskin/dragon/dragon.dff", "weaponskin/dra
 // Deagle weaponskin
 AddSimpleModel(-1, 19482, -5301, "weaponskin/horizon/deagle_horizon.dff", "weaponskin/horizon/deagle_horizon.txd")
 
+// Sniper weaponskin
+AddSimpleModel(-1, 19482, -5401, "weaponskin/robot/sniper_robot.dff", "weaponskin/robot/sniper_robot.txd")
+AddSimpleModel(-1, 19482, -5402, "weaponskin/robot/robot.dff", "weaponskin/robot/robot.txd")
+
 // May khoan khoang san
 AddSimpleModel(-1, 1923, -1081, "maykhoanthuong.dff", "maykhoanthuong.txd")
 AddSimpleModel(-1, 1923, -1082, "maykhoanvip.dff", "maykhoanvip.txd")
@@ -391,6 +395,7 @@ AddSimpleModel(-1, 1923, -1116, "drift_parking_garage.dff", "drift_parking_garag
 
 // Toys
 AddSimpleModel(-1, 19482, -2000, "toys/balorongxanh.dff", "toys/balorongxanh.txd")
+
 
 
 
