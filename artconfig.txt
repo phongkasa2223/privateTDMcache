@@ -391,11 +391,18 @@ AddSimpleModel(-1, 1923, -1082, "maykhoanvip.dff", "maykhoanvip.txd")
 AddSimpleModel(-1, 1923, -1083, "tainguyen_nho.dff", "tainguyen.txd")
 AddSimpleModel(-1, 1923, -1084, "tainguyen_lon.dff", "tainguyen.txd")
 
+// HQ
+AddSimpleModel(-1, 19482, -6001, "hq/osk/osk_hq1.dff", "hq/osk/osk_hq1.txd")
+AddSimpleModel(-1, 19482, -6002, "hq/osk/osk_hq2.dff", "hq/osk/osk_hq2.txd")
+AddSimpleModel(-1, 19482, -6003, "hq/osk/osk_hqdoor.dff", "hq/osk/osk_hqdoor.txd")
+AddSimpleModel(-1, 19482, -6004, "hq/osk/osk_quanvu.dff", "hq/osk/osk_quanvu.txd")
+
 // Underground Drift Parking - Lisiu
 AddSimpleModel(-1, 1923, -1116, "drift_parking_garage.dff", "drift_parking_garage.txd")
 
 // Toys
 AddSimpleModel(-1, 19482, -2000, "toys/balorongxanh.dff", "toys/balorongxanh.txd")
+
 
 
 
