@@ -206,6 +206,7 @@ AddCharModel(230, 20042, "skin/osk.dff", "skin/osk.txd")
 AddCharModel(230, 20043, "skin/girl2.dff", "skin/girl2.txd")
 AddCharModel(230, 20044, "skin/girl3.dff", "skin/girl3.txd")
 AddCharModel(230, 20045, "skin/yumemi.dff", "skin/yumemi.txd")
+AddCharModel(230, 20047, "skin/Huohuo.dff", "skin/Huohuo.txd")
 
 // Guild
 //ROB
@@ -395,6 +396,7 @@ AddSimpleModel(-1, 1923, -1116, "drift_parking_garage.dff", "drift_parking_garag
 
 // Toys
 AddSimpleModel(-1, 19482, -2000, "toys/balorongxanh.dff", "toys/balorongxanh.txd")
+
 
 
 
