@@ -363,6 +363,7 @@ AddSimpleModel(-1, 19482, -5041, "weaponskin/raiden/m4_raiden.dff", "weaponskin/
 AddSimpleModel(-1, 19482, -5042, "weaponskin/raiden/raiden.dff", "weaponskin/raiden/raiden.txd")
 AddSimpleModel(-1, 19482, -5043, "weaponskin/sonic/m4_sonic.dff", "weaponskin/sonic/m4_sonic.txd")
 AddSimpleModel(-1, 19482, -5044, "weaponskin/sonic/sonic.dff", "weaponskin/sonic/sonic.txd")
+
 AddSimpleModel(-1, 19482, -5045, "weaponskin/god/m4_god.dff", "weaponskin/god/m4_god.txd")
 AddSimpleModel(-1, 19482, -5046, "weaponskin/god/god.dff", "weaponskin/god/god.txd")
 AddSimpleModel(-1, 19482, -5047, "weaponskin/quanvu/m4_quanvu.dff", "weaponskin/quanvu/m4_quanvu.txd")
@@ -371,6 +372,8 @@ AddSimpleModel(-1, 19482, -5049, "weaponskin/phantom/m4_phantom.dff", "weaponski
 AddSimpleModel(-1, 19482, -5050, "weaponskin/phantom/phantom.dff", "weaponskin/phantom/phantom.txd")
 AddSimpleModel(-1, 19482, -5051, "weaponskin/demonic/m4_demonic.dff", "weaponskin/demonic/m4_demonic.txd")
 AddSimpleModel(-1, 19482, -5052, "weaponskin/demonic/demonic.dff", "weaponskin/demonic/demonic.txd")
+AddSimpleModel(-1, 19482, -5053, "weaponskin/lightning/m4_lightning.dff", "weaponskin/lightning/m4_lightning.txd")
+AddSimpleModel(-1, 19482, -5054, "weaponskin/lightning/lightning.dff", "weaponskin/lightning/lightning.txd")
 
 // AK47 weaponskin
 AddSimpleModel(-1, 19482, -5101, "weaponskin/vampire/ak_vampire.dff", "weaponskin/vampire/ak_vampire.txd")
@@ -410,6 +413,7 @@ AddSimpleModel(-1, 1923, -1116, "drift_parking_garage.dff", "drift_parking_garag
 
 // Toys
 AddSimpleModel(-1, 19482, -2000, "toys/balorongxanh.dff", "toys/balorongxanh.txd")
+
 
 
 
