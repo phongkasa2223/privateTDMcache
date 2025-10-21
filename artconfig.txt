@@ -369,6 +369,8 @@ AddSimpleModel(-1, 19482, -5047, "weaponskin/quanvu/m4_quanvu.dff", "weaponskin/
 AddSimpleModel(-1, 19482, -5048, "weaponskin/quanvu/quanvu.dff", "weaponskin/quanvu/quanvu.txd")
 AddSimpleModel(-1, 19482, -5049, "weaponskin/phantom/m4_phantom.dff", "weaponskin/phantom/m4_phantom.txd")
 AddSimpleModel(-1, 19482, -5050, "weaponskin/phantom/phantom.dff", "weaponskin/phantom/phantom.txd")
+AddSimpleModel(-1, 19482, -5051, "weaponskin/demonic/m4_demonic.dff", "weaponskin/demonic/m4_demonic.txd")
+AddSimpleModel(-1, 19482, -5052, "weaponskin/demonic/demonic.dff", "weaponskin/demonic/demonic.txd")
 
 // AK47 weaponskin
 AddSimpleModel(-1, 19482, -5101, "weaponskin/vampire/ak_vampire.dff", "weaponskin/vampire/ak_vampire.txd")
@@ -408,6 +410,7 @@ AddSimpleModel(-1, 1923, -1116, "drift_parking_garage.dff", "drift_parking_garag
 
 // Toys
 AddSimpleModel(-1, 19482, -2000, "toys/balorongxanh.dff", "toys/balorongxanh.txd")
+
 
 
 
