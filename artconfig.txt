@@ -395,12 +395,15 @@ AddSimpleModel(-1, 19482, -5401, "weaponskin/robot/sniper_robot.dff", "weaponski
 AddSimpleModel(-1, 19482, -5402, "weaponskin/robot/robot.dff", "weaponskin/robot/robot.txd")
 
 // May khoan khoang san
-AddSimpleModel(-1, 1923, -1081, "maykhoanthuong.dff", "maykhoanthuong.txd")
-AddSimpleModel(-1, 1923, -1082, "maykhoanvip.dff", "maykhoanvip.txd")
+AddSimpleModel(-1, 19482, -1081, "maykhoanthuong.dff", "maykhoanthuong.txd")
+AddSimpleModel(-1, 19482, -1082, "maykhoanvip.dff", "maykhoanvip.txd")
 
 //Tai Nguyen
-AddSimpleModel(-1, 1923, -1083, "tainguyen_nho.dff", "tainguyen.txd")
-AddSimpleModel(-1, 1923, -1084, "tainguyen_lon.dff", "tainguyen.txd")
+AddSimpleModel(-1, 19482, -1083, "tainguyen_nho.dff", "tainguyen.txd")
+AddSimpleModel(-1, 19482, -1084, "tainguyen_lon.dff", "tainguyen.txd")
+
+// Hotvitlon
+AddSimpleModel(-1, 19482, -2100, "objects/hotvitlon.dff", "objects/hotvitlon.txd")
 
 // HQ
 AddSimpleModel(-1, 19482, -6001, "hq/osk/osk_hq1.dff", "hq/osk/osk_hq1.txd")
@@ -413,6 +416,7 @@ AddSimpleModel(-1, 1923, -1116, "drift_parking_garage.dff", "drift_parking_garag
 
 // Toys
 AddSimpleModel(-1, 19482, -2000, "toys/balorongxanh.dff", "toys/balorongxanh.txd")
+
 
 
 
