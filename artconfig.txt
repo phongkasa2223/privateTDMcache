@@ -277,6 +277,7 @@ AddSimpleModel(-1, 19482, -3015, "vehicles/huntley/huntley_v2.dff", "vehicles/hu
 AddSimpleModel(-1, 19482, -3016, "vehicles/huntley/huntley_v2.dff", "vehicles/huntley/huntley_v2f.txd")
 AddSimpleModel(-1, 19482, -3017, "vehicles/huntley/huntley_v2.dff", "vehicles/huntley/huntley_v2g.txd")
 AddSimpleModel(-1, 19482, -3018, "vehicles/huntley/huntley_v2.dff", "vehicles/huntley/huntley_v2h.txd")
+AddSimpleModel(-1, 19482, -3019, "vehicles/huntley/huntley_v2.dff", "vehicles/huntley/huntley_v2j.txd")
 
 // Bonus V2
 AddSimpleModel(-1, 19482, -3020, "vehicles/huntley/axe.dff", "vehicles/huntley/axe.txd")
@@ -418,6 +419,7 @@ AddSimpleModel(-1, 1923, -1116, "drift_parking_garage.dff", "drift_parking_garag
 
 // Toys
 AddSimpleModel(-1, 19482, -2000, "toys/balorongxanh.dff", "toys/balorongxanh.txd")
+
 
 
 
