@@ -423,6 +423,10 @@ AddSimpleModel(-1, 19482, -6012, "hq/qgp/qgp_hqgate2.dff", "hq/qgp/qgp_hqgate.tx
 // Underground Drift Parking - Lisiu
 AddSimpleModel(-1, 1923, -1116, "drift_parking_garage.dff", "drift_parking_garage.txd")
 
+// Dealership SF
+AddSimpleModel(-1, 8674, -1120, "dealership_sf/auto_deluxesports.dff", "dealership_sf/auto_deluxesports.txd");
+AddSimpleModel(-1, 9711, -1121, "dealership_sf/auto_deluxesports_road.dff", "dealership_sf/auto_deluxesports_road.txd");
+
 // Toys
 AddSimpleModel(-1, 19482, -2000, "toys/balorongxanh.dff", "toys/balorongxanh.txd")
 
