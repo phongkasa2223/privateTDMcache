@@ -284,6 +284,9 @@ AddSimpleModel(-1, 19482, -3019, "vehicles/huntley/huntley_v2.dff", "vehicles/hu
 // Bonus V2
 AddSimpleModel(-1, 19482, -3020, "vehicles/huntley/axe.dff", "vehicles/huntley/axe.txd")
 
+// Huntley v1
+AddSimpleModel(-1, 19482, -3050, "vehicles/huntley/huntley_v1.dff", "vehicles/huntley/huntley_v1.txd")
+
 // Sultan
 AddSimpleModel(-1, 19482, -3021, "vehicles/sultan/sultan.dff", "vehicles/sultan/sultan_1.txd")
 AddSimpleModel(-1, 19482, -3022, "vehicles/sultan/sultan.dff", "vehicles/sultan/sultan_2.txd")
