@@ -203,6 +203,15 @@ AddSimpleModel(-1, 19482, -5052, "weaponskin/demonic/demonic.dff", "weaponskin/d
 AddSimpleModel(-1, 19482, -5053, "weaponskin/lightning/m4_lightning.dff", "weaponskin/lightning/m4_lightning.txd")
 AddSimpleModel(-1, 19482, -5054, "weaponskin/lightning/lightning.dff", "weaponskin/lightning/lightning.txd")
 
+AddSimpleModel(-1, 19482, -5055, "objects/blastx/m4_blastx.dff", "objects/blastx/m4_blastx.txd");
+AddSimpleModel(-1, 19482, -5056, "objects/blastx/blastx.dff", "objects/blastx/blastx.txd");
+AddSimpleModel(-1, 19482, -5057, "objects/fallen_angel/m4_fallenangel.dff", "objects/fallen_angel/m4_fallenangel.txd");
+AddSimpleModel(-1, 19482, -5058, "objects/fallen_angel/fallenangel.dff", "objects/fallen_angel/fallenangel.txd");
+AddSimpleModel(-1, 19482, -5059, "objects/kafka/m4_kafka.dff", "objects/kafka/m4_kafka.txd");
+AddSimpleModel(-1, 19482, -5060, "objects/kafka/kafka.dff", "objects/kafka/kafka.txd");
+AddSimpleModel(-1, 19482, -5061, "objects/qgp/m4_qgp.dff", "objects/qgp/m4_qgp.txd");
+AddSimpleModel(-1, 19482, -5062, "objects/qgp/qgp.dff", "objects/qgp/qgp.txd");
+
 // AK47 weaponskin
 AddSimpleModel(-1, 19482, -5101, "weaponskin/vampire/ak_vampire.dff", "weaponskin/vampire/ak_vampire.txd")
 AddSimpleModel(-1, 19482, -5102, "weaponskin/vampire/vampire.dff", "weaponskin/vampire/vampire.txd")
