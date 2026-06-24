@@ -29,7 +29,7 @@ AddCharModel(230, 20047, "skin/Huohuo.dff", "skin/Huohuo.txd")
 AddCharModel(2, 20048, "skin/Anya.dff", "skin/Anya.txd")
 AddCharModel(2, 20049, "skin/Topaz.dff", "skin/Topaz.txd")
 AddCharModel(2, 20050, "skin/OG.dff", "skin/OG.txd")
-AddCharModel(230, 20051, "skin/penguin.dff", "skin/penguin.txd")
+AddCharModel(230, 20051, "skin/kiana.dff", "skin/kiana.txd")
 
 // Guild
 //ROB
