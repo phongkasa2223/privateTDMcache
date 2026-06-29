@@ -66,6 +66,8 @@ AddCharModel(2, 20036, "skin/ROB.dff", "skin/ROB.txd")
 AddCharModel(2, 20039, "skin/QPD.dff", "skin/QPD.txd")
 //SAVAGE
 AddCharModel(234, 20046, "skin/savage.dff", "skin/savage.txd")
+//OSK
+AddCharModel(2, 20080, "skin/duck.dff", "skin/duck.txd")
 
 AddCharModel(2, 20012, "test/test1.dff", "test/test1.txd")
 AddCharModel(2, 20013, "test/test2.dff", "test/test2.txd")
@@ -289,6 +291,9 @@ AddSimpleModel(-1, 19482, -6009, "hq/mrt/hq_mrtwall.dff", "hq/mrt/hq_mrt.txd")
 AddSimpleModel(-1, 19482, -6010, "hq/qgp/qgp_hqwall.dff", "hq/qgp/qgp_hqwall.txd")
 AddSimpleModel(-1, 19482, -6011, "hq/qgp/qgp_hqgate1.dff", "hq/qgp/qgp_hqgate.txd")
 AddSimpleModel(-1, 19482, -6012, "hq/qgp/qgp_hqgate2.dff", "hq/qgp/qgp_hqgate.txd")
+
+AddSimpleModel(-1, 19482, -6015, "hq/og/hq_og.dff", "hq/og/hq_og.txd")
+AddSimpleModel(-1, 19482, -6016, "hq/og/hqog_2.dff", "hq/og/hqog_2.txd")
 
 // Underground Drift Parking - Lisiu
 AddSimpleModel(-1, 1923, -1116, "drift_parking_garage.dff", "drift_parking_garage.txd")
