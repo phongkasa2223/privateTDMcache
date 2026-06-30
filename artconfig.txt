@@ -247,6 +247,8 @@ AddSimpleModel(-1, 19482, -5065, "weaponskin/nazuna/m4_nazuna.dff", "weaponskin/
 AddSimpleModel(-1, 19482, -5066, "weaponskin/nazuna/nazuna.dff", "weaponskin/nazuna/nazuna.txd")
 AddSimpleModel(-1, 19482, -5067, "weaponskin/cutepig/m4_cutepig.dff", "weaponskin/cutepig/m4_cutepig.txd")
 AddSimpleModel(-1, 19482, -5068, "weaponskin/cutepig/cutepig.dff", "weaponskin/cutepig/cutepig.txd")
+AddSimpleModel(-1, 19482, -5069, "weaponskin/inosuke/m4_inosuke.dff", "weaponskin/inosuke/m4_inosuke.txd")
+AddSimpleModel(-1, 19482, -5070, "weaponskin/inosuke/inosuke.dff", "weaponskin/inosuke/inosuke.txd")
 
 // AK47 weaponskin
 AddSimpleModel(-1, 19482, -5101, "weaponskin/vampire/ak_vampire.dff", "weaponskin/vampire/ak_vampire.txd")
@@ -255,6 +257,8 @@ AddSimpleModel(-1, 19482, -5103, "weaponskin/godzilla/ak_godzilla.dff", "weapons
 AddSimpleModel(-1, 19482, -5104, "weaponskin/godzilla/godzilla.dff", "weaponskin/godzilla/godzilla.txd")
 AddSimpleModel(-1, 19482, -5105, "weaponskin/chaos/ak_chaos.dff", "weaponskin/chaos/ak_chaos.txd")
 AddSimpleModel(-1, 19482, -5106, "weaponskin/chaos/chaos.dff", "weaponskin/chaos/chaos.txd")
+AddSimpleModel(-1, 19482, -5107, "weaponskin/chromeheart/ak_chromeheart.dff", "weaponskin/chromeheart/ak_chromeheart.txd")
+AddSimpleModel(-1, 19482, -5108, "weaponskin/chromeheart/chromeheart.dff", "weaponskin/chromeheart/chromeheart.txd")
 
 // Mp5 weaponskin
 AddSimpleModel(-1, 19482, -5201, "weaponskin/dragon/mp5_dragon.dff", "weaponskin/dragon/mp5_dragon.txd")
