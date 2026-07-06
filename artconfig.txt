@@ -277,6 +277,8 @@ AddSimpleModel(-1, 19482, -5107, "weaponskin/chromeheart/ak_chromeheart.dff", "w
 AddSimpleModel(-1, 19482, -5108, "weaponskin/chromeheart/chromeheart.dff", "weaponskin/chromeheart/chromeheart.txd")
 AddSimpleModel(-1, 19482, -5109, "weaponskin/dimension/ak_dimension.dff", "weaponskin/dimension/ak_dimension.txd")
 AddSimpleModel(-1, 19482, -5110, "weaponskin/dimension/dimension.dff", "weaponskin/dimension/dimension.txd")
+AddSimpleModel(-1, 19482, -5111, "weaponskin/gundam/ak_gundam.dff", "weaponskin/gundam/ak_gundam.txd")
+AddSimpleModel(-1, 19482, -5112, "weaponskin/gundam/gundam.dff", "weaponskin/gundam/gundam.txd")
 
 // Mp5 weaponskin
 AddSimpleModel(-1, 19482, -5201, "weaponskin/dragon/mp5_dragon.dff", "weaponskin/dragon/mp5_dragon.txd")
