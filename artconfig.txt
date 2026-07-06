@@ -58,6 +58,7 @@ AddCharModel(2, 20076, "skin/Lingsha.dff", "skin/Lingsha.txd")
 AddCharModel(2, 20077, "skin/Sasaki.dff", "skin/Sasaki.txd")
 AddCharModel(2, 20078, "skin/The_Herta.dff", "skin/The_Herta.txd")
 AddCharModel(2, 20079, "skin/2B_PGR.dff", "skin/2B_PGR.txd")
+AddCharModel(2, 20080, "skin/prometheus.dff", "skin/prometheus.txd")
 
 // Guild
 //ROB
@@ -176,6 +177,8 @@ AddSimpleModel(-1, 19482, -4905, "weaponskin/non-finish/m4_griffin.dff", "weapon
 
 AddSimpleModel(-1, 19482, -4906, "weaponskin/non-finish/m4_golden.dff", "weaponskin/non-finish/m4_golden.txd")
 
+AddSimpleModel(-1, 19482, -4907, "weaponskin/non-finish/m4_chicken.dff", "weaponskin/non-finish/m4_chicken.txd")
+
 AddSimpleModel(-1, 19482, -5001, "weaponskin/kaido/m4_kaido.dff", "weaponskin/kaido/m4_kaido.txd")
 AddSimpleModel(-1, 19482, -5002, "weaponskin/kaido/kaido.dff", "weaponskin/kaido/kaido.txd")
 
@@ -272,6 +275,8 @@ AddSimpleModel(-1, 19482, -5105, "weaponskin/chaos/ak_chaos.dff", "weaponskin/ch
 AddSimpleModel(-1, 19482, -5106, "weaponskin/chaos/chaos.dff", "weaponskin/chaos/chaos.txd")
 AddSimpleModel(-1, 19482, -5107, "weaponskin/chromeheart/ak_chromeheart.dff", "weaponskin/chromeheart/ak_chromeheart.txd")
 AddSimpleModel(-1, 19482, -5108, "weaponskin/chromeheart/chromeheart.dff", "weaponskin/chromeheart/chromeheart.txd")
+AddSimpleModel(-1, 19482, -5109, "weaponskin/dimension/ak_dimension.dff", "weaponskin/dimension/ak_dimension.txd")
+AddSimpleModel(-1, 19482, -5110, "weaponskin/dimension/dimension.dff", "weaponskin/dimension/dimension.txd")
 
 // Mp5 weaponskin
 AddSimpleModel(-1, 19482, -5201, "weaponskin/dragon/mp5_dragon.dff", "weaponskin/dragon/mp5_dragon.txd")
