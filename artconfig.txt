@@ -58,7 +58,7 @@ AddCharModel(2, 20076, "skin/Lingsha.dff", "skin/Lingsha.txd")
 AddCharModel(2, 20077, "skin/Sasaki.dff", "skin/Sasaki.txd")
 AddCharModel(2, 20078, "skin/The_Herta.dff", "skin/The_Herta.txd")
 AddCharModel(2, 20079, "skin/2B_PGR.dff", "skin/2B_PGR.txd")
-AddCharModel(2, 20080, "skin/prometheus.dff", "skin/prometheus.txd")
+AddCharModel(2, 20084, "skin/prometheus.dff", "skin/prometheus.txd")
 
 // Guild
 //ROB
