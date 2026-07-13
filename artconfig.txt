@@ -62,6 +62,8 @@ AddCharModel(2, 20084, "skin/prometheus.dff", "skin/prometheus.txd")
 AddCharModel(2, 20085, "skin/kipz.dff", "skin/kipz.txd")
 AddCharModel(2, 20086, "skin/Hutao.dff", "skin/Hutao.txd")
 AddCharModel(2, 20087, "skin/kafka.dff", "skin/kafka.txd")
+AddCharModel(2, 20089, "skin/dikaa.dff", "skin/dikaa.txd")
+AddCharModel(2, 20090, "skin/shido.dff", "skin/shido.txd")
 
 // Guild
 //ROB
