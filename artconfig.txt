@@ -60,6 +60,8 @@ AddCharModel(2, 20078, "skin/The_Herta.dff", "skin/The_Herta.txd")
 AddCharModel(2, 20079, "skin/2B_PGR.dff", "skin/2B_PGR.txd")
 AddCharModel(2, 20084, "skin/prometheus.dff", "skin/prometheus.txd")
 AddCharModel(2, 20085, "skin/kipz.dff", "skin/kipz.txd")
+AddCharModel(2, 20086, "skin/Hutao.dff", "skin/Hutao.txd")
+AddCharModel(2, 20087, "skin/kafka.dff", "skin/kafka.txd")
 
 // Guild
 //ROB
@@ -76,6 +78,7 @@ AddCharModel(2, 20081, "skin/heo.dff", "skin/heo.txd")
 AddCharModel(2, 20082, "skin/asap.dff", "skin/asap.txd")
 //VIPER
 AddCharModel(2, 20083, "skin/viper.dff", "skin/viper.txd")
+AddCharModel(2, 20088, "skin/viper2.dff", "skin/viper2.txd")
 
 AddCharModel(2, 21101, "skin/penguin.dff", "skin/penguin.txd")
 AddCharModel(2, 21102, "skin/hungcom.dff", "skin/hungcom.txd")
