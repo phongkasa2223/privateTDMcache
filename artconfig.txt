@@ -321,6 +321,8 @@ AddSimpleModel(-1, 19482, -6002, "hq/osk/osk_hq2.dff", "hq/osk/osk_hq2.txd")
 AddSimpleModel(-1, 19482, -6003, "hq/osk/osk_hqdoor.dff", "hq/osk/osk_hqdoor.txd")
 AddSimpleModel(-1, 19482, -6004, "hq/osk/osk_quanvu.dff", "hq/osk/osk_quanvu.txd")
 
+AddSimpleModel(-1, 19482, -6006, "hq/viper/viperhq.dff", "hq/viper/viperhq.txd")
+
 AddSimpleModel(-1, 19482, -6007, "hq/mrt/hq_mrt.dff", "hq/mrt/hq_mrt.txd")
 AddSimpleModel(-1, 19482, -6008, "hq/mrt/hq_mrtgate.dff", "hq/mrt/hq_mrtgate.txd")
 AddSimpleModel(-1, 19482, -6009, "hq/mrt/hq_mrtwall.dff", "hq/mrt/hq_mrt.txd")
