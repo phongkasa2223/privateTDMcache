@@ -94,7 +94,6 @@ AddCharModel(2, 21104, "admin/Spike.dff", "admin/Spike.txd")
 AddCharModel(2, 21105, "admin/Tom.dff", "admin/Tom.txd")
 AddCharModel(2, 21106, "admin/Tyke.dff", "admin/Tyke.txd")
 AddCharModel(2, 21107, "admin/medic1.dff", "admin/medic1.txd")
-AddCharModel(2, 21108, "admin/medic2.dff", "admin/medic2.txd")
 
 AddCharModel(2, 20012, "test/test1.dff", "test/test1.txd")
 AddCharModel(2, 20013, "test/test2.dff", "test/test2.txd")
