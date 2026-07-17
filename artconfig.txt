@@ -86,6 +86,8 @@ AddCharModel(2, 20083, "skin/viper.dff", "skin/viper.txd")
 AddCharModel(2, 20088, "skin/viper2.dff", "skin/viper2.txd")
 //YOUNG TALENT
 AddCharModel(2, 20093, "skin/gura.dff", "skin/gura.txd")
+//NHUNG THANG TU
+AddCharModel(2, 20095, "skin/nht.dff", "skin/nht.txd")
 
 AddCharModel(2, 21101, "skin/penguin.dff", "skin/penguin.txd")
 AddCharModel(2, 21102, "skin/hungcom.dff", "skin/hungcom.txd")
