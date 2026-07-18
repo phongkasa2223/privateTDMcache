@@ -346,3 +346,8 @@ AddSimpleModel(-1, 9711, -1121, "dealership_sf/auto_deluxesports_road.dff", "dea
 
 // Toys
 AddSimpleModel(-1, 19482, -2000, "toys/balorongxanh.dff", "toys/balorongxanh.txd")
+
+//Race
+AddSimpleModel(-1, 19482, -2011, "objects/race/tape1.dff", "objects/race/tape.txd")
+AddSimpleModel(-1, 19482, -2012, "objects/race/tape2.dff", "objects/race/tape.txd")
+AddSimpleModel(-1, 19482, -2013, "objects/race/tape3.dff", "objects/race/tape.txd")
