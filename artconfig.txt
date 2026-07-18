@@ -66,7 +66,10 @@ AddCharModel(2, 20089, "skin/dikaa.dff", "skin/dikaa.txd")
 AddCharModel(2, 20090, "skin/shido.dff", "skin/shido.txd")
 AddCharModel(2, 20091, "skin/yae.dff", "skin/yae.txd")
 AddCharModel(2, 20092, "skin/lucia.dff", "skin/lucia.txd")
-AddCharModel(2, 20094, "skin/maxi.dff", "skin/maxi.txd")
+
+// Maxi
+AddCharModel(2, 20094, "private/maxi.dff", "private/maxi.txd")
+AddCharModel(2, 20095, "private/maxi2.dff", "private/maxi2.txd")
 
 // Guild
 //ROB
