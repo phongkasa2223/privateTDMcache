@@ -70,6 +70,7 @@ AddCharModel(2, 20092, "skin/lucia.dff", "skin/lucia.txd")
 // Maxi
 AddCharModel(2, 20094, "private/maxi.dff", "private/maxi.txd")
 AddCharModel(2, 20096, "private/maxi2.dff", "private/maxi2.txd")
+AddCharModel(2, 20097, "private/hann.dff", "private/hann.txd")
 
 // Guild
 //ROB
