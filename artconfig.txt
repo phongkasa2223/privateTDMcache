@@ -283,6 +283,13 @@ AddSimpleModel(-1, 19482, -5068, "weaponskin/cutepig/cutepig.dff", "weaponskin/c
 AddSimpleModel(-1, 19482, -5069, "weaponskin/inosuke/m4_inosuke.dff", "weaponskin/inosuke/m4_inosuke.txd")
 AddSimpleModel(-1, 19482, -5070, "weaponskin/inosuke/inosuke.dff", "weaponskin/inosuke/inosuke.txd")
 
+AddSimpleModel(-1, 19482, -5071, "weaponskin/kingrahu/m4_kingrahu.dff", "weaponskin/kingrahu/m4_kingrahu.txd")
+AddSimpleModel(-1, 19482, -5072, "weaponskin/kingrahu/kingrahu.dff", "weaponskin/kingrahu/kingrahu.txd")
+AddSimpleModel(-1, 19482, -5073, "weaponskin/viper/m4_viper.dff", "weaponskin/viper/m4_viper.txd")
+AddSimpleModel(-1, 19482, -5074, "weaponskin/viper/viper.dff", "weaponskin/viper/viper.txd")
+AddSimpleModel(-1, 19482, -5075, "weaponskin/thl/m4_thl.dff", "weaponskin/thl/m4_thl.txd")
+AddSimpleModel(-1, 19482, -5076, "weaponskin/thl/thl.dff", "weaponskin/thl/thl.txd")
+
 // AK47 weaponskin
 AddSimpleModel(-1, 19482, -5101, "weaponskin/vampire/ak_vampire.dff", "weaponskin/vampire/ak_vampire.txd")
 AddSimpleModel(-1, 19482, -5102, "weaponskin/vampire/vampire.dff", "weaponskin/vampire/vampire.txd")
@@ -296,6 +303,8 @@ AddSimpleModel(-1, 19482, -5109, "weaponskin/dimension/ak_dimension.dff", "weapo
 AddSimpleModel(-1, 19482, -5110, "weaponskin/dimension/dimension.dff", "weaponskin/dimension/dimension.txd")
 AddSimpleModel(-1, 19482, -5111, "weaponskin/gundam/ak_gundam.dff", "weaponskin/gundam/ak_gundam.txd")
 AddSimpleModel(-1, 19482, -5112, "weaponskin/gundam/gundam.dff", "weaponskin/gundam/gundam.txd")
+AddSimpleModel(-1, 19482, -5113, "weaponskin/kurama/ak_kurama.dff", "weaponskin/kurama/ak_kurama.txd")
+AddSimpleModel(-1, 19482, -5114, "weaponskin/kurama/kurama.dff", "weaponskin/kurama/kurama.txd")
 
 // Mp5 weaponskin
 AddSimpleModel(-1, 19482, -5201, "weaponskin/dragon/mp5_dragon.dff", "weaponskin/dragon/mp5_dragon.txd")
