@@ -72,6 +72,9 @@ AddCharModel(2, 20094, "private/maxi.dff", "private/maxi.txd")
 AddCharModel(2, 20096, "private/maxi2.dff", "private/maxi2.txd")
 AddCharModel(2, 20097, "private/hann.dff", "private/hann.txd")
 
+// Gia Khoa
+AddCharModel(2, 20098, "private/giakhoa.dff", "private/giakhoa.txd")
+
 // Guild
 //ROB
 AddCharModel(2, 20036, "skin/ROB.dff", "skin/ROB.txd")
