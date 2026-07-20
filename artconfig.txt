@@ -321,6 +321,12 @@ AddSimpleModel(-1, 19482, -5301, "weaponskin/horizon/deagle_horizon.dff", "weapo
 AddSimpleModel(-1, 19482, -5401, "weaponskin/robot/sniper_robot.dff", "weaponskin/robot/sniper_robot.txd")
 AddSimpleModel(-1, 19482, -5402, "weaponskin/robot/robot.dff", "weaponskin/robot/robot.txd")
 
+// Lights
+AddSimpleModel(-1, 19797, -4001, "lights/cyan.dff", "lights/lights.txd")
+AddSimpleModel(-1, 19797, -4002, "lights/green.dff", "lights/lights.txd")
+AddSimpleModel(-1, 19797, -4003, "lights/purple.dff", "lights/lights.txd")
+AddSimpleModel(-1, 19797, -4004, "lights/white.dff", "lights/lights.txd")
+
 // May khoan khoang san
 AddSimpleModel(-1, 19482, -1081, "maykhoanthuong.dff", "maykhoanthuong.txd")
 AddSimpleModel(-1, 19482, -1082, "maykhoanvip.dff", "maykhoanvip.txd")
