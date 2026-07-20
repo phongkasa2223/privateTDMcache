@@ -115,6 +115,7 @@ AddCharModel(2, 21109, "admin/gokussj3.dff", "admin/gokussj3.txd")
 AddCharModel(2, 21110, "admin/Itadori.dff", "admin/Itadori.txd")
 AddCharModel(2, 21111, "admin/kaneki.dff", "admin/kaneki.txd")
 AddCharModel(2, 21112, "admin/luffy.dff", "admin/luffy.txd")
+AddCharModel(2, 21113, "admin/liinguyn.dff", "admin/liinguyn.txd")
 
 AddCharModel(2, 20012, "test/test1.dff", "test/test1.txd")
 AddCharModel(2, 20013, "test/test2.dff", "test/test2.txd")
