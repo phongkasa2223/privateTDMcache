@@ -97,10 +97,13 @@ AddCharModel(2, 20082, "skin/asap.dff", "skin/asap.txd")
 //VIPER
 AddCharModel(2, 20083, "skin/viper.dff", "skin/viper.txd")
 AddCharModel(2, 20088, "skin/viper2.dff", "skin/viper2.txd")
+AddCharModel(2, 20105, "skin/shiroko.dff", "skin/shiroko.txd")
 //YOUNG TALENT
 AddCharModel(2, 20093, "skin/gura.dff", "skin/gura.txd")
 //NHUNG THANG TU
 AddCharModel(2, 20095, "skin/nht.dff", "skin/nht.txd")
+//AOD
+AddCharModel(2, 20106, "skin/aod.dff", "skin/aod.txd")
 
 AddCharModel(2, 21101, "skin/penguin.dff", "skin/penguin.txd")
 AddCharModel(2, 21102, "skin/hungcom.dff", "skin/hungcom.txd")
