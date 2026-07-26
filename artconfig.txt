@@ -374,6 +374,9 @@ AddSimpleModel(-1, 19482, -1082, "maykhoanvip.dff", "maykhoanvip.txd")
 AddSimpleModel(-1, 19482, -1083, "tainguyen_nho.dff", "tainguyen.txd")
 AddSimpleModel(-1, 19482, -1084, "tainguyen_lon.dff", "tainguyen.txd")
 
+// Nha may
+AddSimpleModel(-1, 19482, -1100, "objects/nhamay.dff", "objects/nhamay.txd")
+
 // Hotvitlon
 AddSimpleModel(-1, 19482, -2100, "objects/hotvitlon.dff", "objects/hotvitlon.txd")
 
