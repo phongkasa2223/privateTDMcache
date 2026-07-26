@@ -328,6 +328,8 @@ AddSimpleModel(-1, 19482, -5081, "weaponskin/voltbot/m4_voltbot.dff", "weaponski
 AddSimpleModel(-1, 19482, -5082, "weaponskin/voltbot/voltbot.dff", "weaponskin/voltbot/voltbot.txd")
 AddSimpleModel(-1, 19482, -5083, "weaponskin/xiaoyan/m4_xiaoyan.dff", "weaponskin/xiaoyan/m4_xiaoyan.txd")
 AddSimpleModel(-1, 19482, -5084, "weaponskin/xiaoyan/xiaoyan.dff", "weaponskin/xiaoyan/xiaoyan.txd")
+AddSimpleModel(-1, 19482, -5085, "weaponskin/gojov2/m4_gojov2.dff", "weaponskin/gojov2/m4_gojov2.txd")
+AddSimpleModel(-1, 19482, -5086, "weaponskin/gojov2/gojov2.dff", "weaponskin/gojov2/gojov2.txd")
 
 // AK47 weaponskin
 AddSimpleModel(-1, 19482, -5101, "weaponskin/vampire/ak_vampire.dff", "weaponskin/vampire/ak_vampire.txd")
