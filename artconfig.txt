@@ -320,6 +320,14 @@ AddSimpleModel(-1, 19482, -5073, "weaponskin/viper/m4_viper.dff", "weaponskin/vi
 AddSimpleModel(-1, 19482, -5074, "weaponskin/viper/viper.dff", "weaponskin/viper/viper.txd")
 AddSimpleModel(-1, 19482, -5075, "weaponskin/thl/m4_thl.dff", "weaponskin/thl/m4_thl.txd")
 AddSimpleModel(-1, 19482, -5076, "weaponskin/thl/thl.dff", "weaponskin/thl/thl.txd")
+AddSimpleModel(-1, 19482, -5077, "weaponskin/ntt/m4_ntt.dff", "weaponskin/ntt/m4_ntt.txd")
+AddSimpleModel(-1, 19482, -5078, "weaponskin/ntt/ntt.dff", "weaponskin/ntt/ntt.txd")
+AddSimpleModel(-1, 19482, -5079, "weaponskin/gojo/m4_gojo.dff", "weaponskin/gojo/m4_gojo.txd")
+AddSimpleModel(-1, 19482, -5080, "weaponskin/gojo/gojo.dff", "weaponskin/gojo/gojo.txd")
+AddSimpleModel(-1, 19482, -5081, "weaponskin/voltbot/m4_voltbot.dff", "weaponskin/voltbot/m4_voltbot.txd")
+AddSimpleModel(-1, 19482, -5082, "weaponskin/voltbot/voltbot.dff", "weaponskin/voltbot/voltbot.txd")
+AddSimpleModel(-1, 19482, -5083, "weaponskin/xiaoyan/m4_xiaoyan.dff", "weaponskin/xiaoyan/m4_xiaoyan.txd")
+AddSimpleModel(-1, 19482, -5084, "weaponskin/xiaoyan/xiaoyan.dff", "weaponskin/xiaoyan/xiaoyan.txd")
 
 // AK47 weaponskin
 AddSimpleModel(-1, 19482, -5101, "weaponskin/vampire/ak_vampire.dff", "weaponskin/vampire/ak_vampire.txd")
