@@ -394,6 +394,11 @@ AddSimpleModel(-1, 19482, -6016, "hq/og/hqog_2.dff", "hq/og/hqog_2.txd")
 AddSimpleModel(-1, 19482, -6017, "hq/og/hqog_3.dff", "hq/og/hqog_3.txd")
 AddSimpleModel(-1, 19482, -6018, "hq/og/hqog_wires.dff", "hq/og/hqog_wires.txd")
 
+AddSimpleModel(-1, 19482, -6020, "hq/dior/hq_dior.dff", "hq/dior/hq_dior.txd")
+AddSimpleModel(-1, 19482, -6021, "hq/dior/terrain_dior.dff", "hq/dior/terrain_dior.txd")
+AddSimpleModel(-1, 19482, -6022, "hq/dior/elevator.dff", "hq/dior/elevator.txd")
+AddSimpleModel(-1, 19482, -6023, "hq/dior/house_ht.dff", "hq/dior/house_ht.txd")
+
 // Underground Drift Parking - Lisiu
 AddSimpleModel(-1, 1923, -1116, "drift_parking_garage.dff", "drift_parking_garage.txd")
 
