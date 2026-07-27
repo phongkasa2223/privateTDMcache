@@ -2,6 +2,9 @@
 AddSimpleModel(-1, 19379, -1000, "inventory.dff", "inventory.txd")
 AddSimpleModel(-1, 19379, -1001, "menu.dff", "menu.txd")
 AddSimpleModel(-1, 19379, -1002, "shop.dff", "shop.txd")
+AddSimpleModel(-1, 19379, -1003, "inventory.dff", "honnguyen.txd")
+AddSimpleModel(-1, 19379, -1004, "shovel.dff", "shovel.txd")
+AddSimpleModel(-1, 19482, -1005, "objects/airdrop.dff", "objects/airdrop.txd")
 //Viplocker
 AddSimpleModel(-1, 19482, -1090, "viplocker.dff", "viplocker.txd")
 
