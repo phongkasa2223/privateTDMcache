@@ -109,8 +109,12 @@ AddCharModel(2, 20105, "skin/shiroko.dff", "skin/shiroko.txd")
 AddCharModel(2, 20093, "skin/gura.dff", "skin/gura.txd")
 //NHUNG THANG TU
 AddCharModel(2, 20095, "skin/nht.dff", "skin/nht.txd")
+AddCharModel(2, 20114, "skin/nht2.dff", "skin/nht2.txd")
+AddCharModel(2, 20115, "skin/nht3.dff", "skin/nht3.txd")
 //AOD
 AddCharModel(230, 20106, "skin/aod.dff", "skin/aod.txd")
+//DIOR
+AddCharModel(2, 20116, "skin/dior.dff", "skin/dior.txd")
 
 AddCharModel(2, 21101, "skin/penguin.dff", "skin/penguin.txd")
 AddCharModel(2, 21102, "skin/hungcom.dff", "skin/hungcom.txd")
