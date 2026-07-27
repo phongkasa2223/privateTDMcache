@@ -338,6 +338,8 @@ AddSimpleModel(-1, 19482, -5087, "weaponskin/killua/m4_killua.dff", "weaponskin/
 AddSimpleModel(-1, 19482, -5088, "weaponskin/killua/killua.dff", "weaponskin/killua/killua.txd")
 AddSimpleModel(-1, 19482, -5089, "weaponskin/bubu/m4_bubu.dff", "weaponskin/bubu/m4_bubu.txd")
 AddSimpleModel(-1, 19482, -5090, "weaponskin/bubu/bubu.dff", "weaponskin/bubu/bubu.txd")
+AddSimpleModel(-1, 19482, -5091, "weaponskin/roc/m4_roc.dff", "weaponskin/roc/m4_roc.txd")
+AddSimpleModel(-1, 19482, -5092, "weaponskin/roc/roc.dff", "weaponskin/roc/roc.txd")
 
 // AK47 weaponskin
 AddSimpleModel(-1, 19482, -5101, "weaponskin/vampire/ak_vampire.dff", "weaponskin/vampire/ak_vampire.txd")
