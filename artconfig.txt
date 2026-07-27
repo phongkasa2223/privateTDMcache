@@ -111,6 +111,7 @@ AddCharModel(2, 20093, "skin/gura.dff", "skin/gura.txd")
 AddCharModel(2, 20095, "skin/nht.dff", "skin/nht.txd")
 AddCharModel(2, 20114, "skin/nht2.dff", "skin/nht2.txd")
 AddCharModel(2, 20115, "skin/nht3.dff", "skin/nht3.txd")
+AddCharModel(2, 20117, "skin/nht4.dff", "skin/nht4.txd")
 //AOD
 AddCharModel(230, 20106, "skin/aod.dff", "skin/aod.txd")
 //DIOR
