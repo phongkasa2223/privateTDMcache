@@ -119,7 +119,7 @@ AddCharModel(2, 20114, "skin/nht2.dff", "skin/nht2.txd")
 AddCharModel(2, 20115, "skin/nht3.dff", "skin/nht3.txd")
 AddCharModel(2, 20117, "skin/nht4.dff", "skin/nht4.txd")
 //AOD
-AddCharModel(230, 20106, "skin/aod.dff", "skin/aod.txd")
+AddCharModel(2, 20106, "skin/aod.dff", "skin/aod.txd")
 //DIOR
 AddCharModel(2, 20116, "skin/dior.dff", "skin/dior.txd")
 
