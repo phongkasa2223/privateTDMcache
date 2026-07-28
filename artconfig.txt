@@ -364,7 +364,8 @@ AddSimpleModel(-1, 19482, -5114, "weaponskin/kurama/kurama.dff", "weaponskin/kur
 // Mp5 weaponskin
 AddSimpleModel(-1, 19482, -5201, "weaponskin/dragon/mp5_dragon.dff", "weaponskin/dragon/mp5_dragon.txd")
 AddSimpleModel(-1, 19482, -5202, "weaponskin/dragon/dragon.dff", "weaponskin/dragon/dragon.txd")
-AddSimpleModel(-1, 19482, -5203, "weaponskin/viper/mp5_viper.dff", "weaponskin/viper/mp5_viper.txd")
+AddSimpleModel(-1, 19482, -5203, "weaponskin/semigod/mp5_semigod.dff", "weaponskin/semigod/mp5_semigod.txd")
+AddSimpleModel(-1, 19482, -5204, "weaponskin/semigod/semigod.dff", "weaponskin/semigod/semigod.txd")
 
 // Deagle weaponskin
 AddSimpleModel(-1, 19482, -5301, "weaponskin/horizon/deagle_horizon.dff", "weaponskin/horizon/deagle_horizon.txd")
