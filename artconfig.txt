@@ -94,6 +94,9 @@ AddCharModel(2, 20098, "private/giakhoa.dff", "private/giakhoa.txd")
 // Pony Ne
 AddCharModel(2, 20118, "private/helena.dff", "private/helena.txd")
 
+// Bao Duy Tran
+AddCharModel(2, 20119, "private/baoduy.dff", "private/baoduy.txd")
+
 // Guild
 //ROB
 AddCharModel(2, 20036, "skin/ROB.dff", "skin/ROB.txd")
