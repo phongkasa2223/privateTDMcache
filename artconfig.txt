@@ -98,7 +98,7 @@ AddCharModel(2, 20118, "private/helena.dff", "private/helena.txd")
 AddCharModel(2, 20119, "private/baoduy.dff", "private/baoduy.txd")
 
 // Paul Le
-AddCharModel(2, 20119, "private/paul.dff", "private/paul.txd")
+AddCharModel(2, 20120, "private/paul.dff", "private/paul.txd")
 
 // Guild
 //ROB
