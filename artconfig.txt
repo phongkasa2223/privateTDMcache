@@ -100,6 +100,9 @@ AddCharModel(2, 20119, "private/baoduy.dff", "private/baoduy.txd")
 // Paul Le
 AddCharModel(2, 20120, "private/paul.dff", "private/paul.txd")
 
+// TaoGia Roi
+AddCharModel(2, 20121, "private/byzeus.dff", "private/byzeus.txd")
+
 // Guild
 //ROB
 AddCharModel(2, 20036, "skin/ROB.dff", "skin/ROB.txd")
