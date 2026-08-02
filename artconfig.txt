@@ -364,6 +364,9 @@ AddSimpleModel(-1, 19482, -5090, "weaponskin/bubu/bubu.dff", "weaponskin/bubu/bu
 AddSimpleModel(-1, 19482, -5091, "weaponskin/roc/m4_roc.dff", "weaponskin/roc/m4_roc.txd")
 AddSimpleModel(-1, 19482, -5092, "weaponskin/roc/roc.dff", "weaponskin/roc/roc.txd")
 
+AddSimpleModel(-1, 19482, -5093, "weaponskin/aod/m4_aod.dff", "weaponskin/aod/m4_aod.txd")
+AddSimpleModel(-1, 19482, -5094, "weaponskin/aod/aod.dff", "weaponskin/aod/aod.txd")
+
 // AK47 weaponskin
 AddSimpleModel(-1, 19482, -5101, "weaponskin/vampire/ak_vampire.dff", "weaponskin/vampire/ak_vampire.txd")
 AddSimpleModel(-1, 19482, -5102, "weaponskin/vampire/vampire.dff", "weaponskin/vampire/vampire.txd")
