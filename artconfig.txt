@@ -93,6 +93,7 @@ AddCharModel(2, 20098, "private/giakhoa.dff", "private/giakhoa.txd")
 
 // Pony Ne
 AddCharModel(2, 20118, "private/helena.dff", "private/helena.txd")
+AddCharModel(2, 20122, "private/popy.dff", "private/popy.txd")
 
 // Bao Duy Tran
 AddCharModel(2, 20119, "private/baoduy.dff", "private/baoduy.txd")
