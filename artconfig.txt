@@ -401,6 +401,7 @@ AddSimpleModel(-1, 19797, -4001, "lights/cyan.dff", "lights/lights.txd")
 AddSimpleModel(-1, 19797, -4002, "lights/green.dff", "lights/lights.txd")
 AddSimpleModel(-1, 19797, -4003, "lights/purple.dff", "lights/lights.txd")
 AddSimpleModel(-1, 19797, -4004, "lights/white.dff", "lights/lights.txd")
+AddSimpleModel(-1, 19797, -4005, "lights/red.dff", "lights/lights.txd")
 
 // May khoan khoang san
 AddSimpleModel(-1, 19482, -1081, "maykhoanthuong.dff", "maykhoanthuong.txd")
