@@ -97,6 +97,7 @@ AddCharModel(2, 20122, "private/popy.dff", "private/popy.txd")
 
 // Bao Duy Tran
 AddCharModel(2, 20119, "private/baoduy.dff", "private/baoduy.txd")
+AddCharModel(2, 20126, "private/baoduy2.dff", "private/baoduy2.txd")
 
 // Paul Le
 AddCharModel(2, 20120, "private/paul.dff", "private/paul.txd")
@@ -107,6 +108,11 @@ AddCharModel(2, 20121, "private/byzeus.dff", "private/byzeus.txd")
 // Viper Nguyen
 AddCharModel(2, 20123, "private/viper1.dff", "private/viper1.txd")
 AddCharModel(2, 20124, "private/viper2.dff", "private/viper2.txd")
+
+// TZin Official
+AddCharModel(2, 20127, "private/tzin1.dff", "private/tzin1.txd")
+AddCharModel(2, 20128, "private/tzin2.dff", "private/tzin2.txd")
+AddCharModel(2, 20129, "private/tzin3.dff", "private/tzin3.txd")
 
 // Guild
 //ROB
