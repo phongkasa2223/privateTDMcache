@@ -117,6 +117,9 @@ AddCharModel(2, 20129, "private/tzin3.dff", "private/tzin3.txd")
 // Dien Mong De
 AddCharModel(2, 20130, "private/atus.dff", "private/atus.txd")
 
+// Kenh Zz
+AddCharModel(2, 20131, "private/kenhzz.dff", "private/kenhzz.txd")
+
 // Guild
 //ROB
 AddCharModel(2, 20036, "skin/ROB.dff", "skin/ROB.txd")
