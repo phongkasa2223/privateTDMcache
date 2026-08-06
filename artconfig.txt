@@ -266,6 +266,8 @@ AddSimpleModel(-1, 19482, -4906, "weaponskin/non-finish/m4_golden.dff", "weapons
 
 AddSimpleModel(-1, 19482, -4907, "weaponskin/non-finish/m4_chicken.dff", "weaponskin/non-finish/m4_chicken.txd")
 
+AddSimpleModel(-1, 19482, -4908, "weaponskin/non-finish/ak_tzin.dff", "weaponskin/non-finish/ak_tzin.txd")
+
 AddSimpleModel(-1, 19482, -5001, "weaponskin/kaido/m4_kaido.dff", "weaponskin/kaido/m4_kaido.txd")
 AddSimpleModel(-1, 19482, -5002, "weaponskin/kaido/kaido.dff", "weaponskin/kaido/kaido.txd")
 
@@ -378,6 +380,8 @@ AddSimpleModel(-1, 19482, -5092, "weaponskin/roc/roc.dff", "weaponskin/roc/roc.t
 
 AddSimpleModel(-1, 19482, -5093, "weaponskin/aod/m4_aod.dff", "weaponskin/aod/m4_aod.txd")
 AddSimpleModel(-1, 19482, -5094, "weaponskin/aod/aod.dff", "weaponskin/aod/aod.txd")
+AddSimpleModel(-1, 19482, -5095, "weaponskin/beach/m4_beach.dff", "weaponskin/beach/m4_beach.txd")
+AddSimpleModel(-1, 19482, -5096, "weaponskin/beach/beach2.dff", "weaponskin/beach/beach2.txd")
 
 // AK47 weaponskin
 AddSimpleModel(-1, 19482, -5101, "weaponskin/vampire/ak_vampire.dff", "weaponskin/vampire/ak_vampire.txd")
@@ -394,6 +398,8 @@ AddSimpleModel(-1, 19482, -5111, "weaponskin/gundam/ak_gundam.dff", "weaponskin/
 AddSimpleModel(-1, 19482, -5112, "weaponskin/gundam/gundam.dff", "weaponskin/gundam/gundam.txd")
 AddSimpleModel(-1, 19482, -5113, "weaponskin/kurama/ak_kurama.dff", "weaponskin/kurama/ak_kurama.txd")
 AddSimpleModel(-1, 19482, -5114, "weaponskin/kurama/kurama.dff", "weaponskin/kurama/kurama.txd")
+AddSimpleModel(-1, 19482, -5115, "weaponskin/beach/ak_beach.dff", "weaponskin/beach/ak_beach.txd")
+AddSimpleModel(-1, 19482, -5116, "weaponskin/beach/beach.dff", "weaponskin/beach/beach.txd")
 
 // Mp5 weaponskin
 AddSimpleModel(-1, 19482, -5201, "weaponskin/dragon/mp5_dragon.dff", "weaponskin/dragon/mp5_dragon.txd")
