@@ -268,6 +268,8 @@ AddSimpleModel(-1, 19482, -4907, "weaponskin/non-finish/m4_chicken.dff", "weapon
 
 AddSimpleModel(-1, 19482, -4908, "weaponskin/non-finish/ak_tzin.dff", "weaponskin/non-finish/ak_tzin.txd")
 
+AddSimpleModel(-1, 19482, -4909, "weaponskin/non-finish/m4_baoduy.dff", "weaponskin/non-finish/m4_baoduy.txd")
+
 AddSimpleModel(-1, 19482, -5001, "weaponskin/kaido/m4_kaido.dff", "weaponskin/kaido/m4_kaido.txd")
 AddSimpleModel(-1, 19482, -5002, "weaponskin/kaido/kaido.dff", "weaponskin/kaido/kaido.txd")
 
@@ -382,6 +384,8 @@ AddSimpleModel(-1, 19482, -5093, "weaponskin/aod/m4_aod.dff", "weaponskin/aod/m4
 AddSimpleModel(-1, 19482, -5094, "weaponskin/aod/aod.dff", "weaponskin/aod/aod.txd")
 AddSimpleModel(-1, 19482, -5095, "weaponskin/beach/m4_beach.dff", "weaponskin/beach/m4_beach.txd")
 AddSimpleModel(-1, 19482, -5096, "weaponskin/beach/beach2.dff", "weaponskin/beach/beach2.txd")
+AddSimpleModel(-1, 19482, -5097, "weaponskin/monarch/m4_monarch.dff", "weaponskin/monarch/m4_monarch.txd")
+AddSimpleModel(-1, 19482, -5098, "weaponskin/monarch/monarch.dff", "weaponskin/monarch/monarch.txd")
 
 // AK47 weaponskin
 AddSimpleModel(-1, 19482, -5101, "weaponskin/vampire/ak_vampire.dff", "weaponskin/vampire/ak_vampire.txd")
