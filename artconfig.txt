@@ -120,6 +120,9 @@ AddCharModel(2, 20130, "private/atus.dff", "private/atus.txd")
 // Kenh Zz
 AddCharModel(2, 20131, "private/kenhzz.dff", "private/kenhzz.txd")
 
+// Bao Linh
+AddCharModel(2, 20132, "private/baolinh.dff", "private/baolinh.txd")
+
 // Guild
 //ROB
 AddCharModel(2, 20036, "skin/ROB.dff", "skin/ROB.txd")
@@ -169,6 +172,9 @@ AddCharModel(2, 21114, "admin/majinbuu.dff", "admin/majinbuu.txd")
 AddCharModel(2, 21115, "admin/Vegeta.dff", "admin/Vegeta.txd")
 AddCharModel(2, 21116, "skin/miku25nn.dff", "skin/miku25nn.txd")
 AddCharModel(2, 21117, "skin/Raphtlia.dff", "skin/Raphtlia.txd")
+AddCharModel(2, 21118, "skin/Citlali_Alt.dff", "skin/Citlali_Alt.txd")
+AddCharModel(2, 21119, "skin/CR7_P21.dff", "skin/CR7_P21.txd")
+AddCharModel(2, 21120, "skin/koleda.dff", "skin/koleda.txd")
 
 AddCharModel(2, 20012, "test/test1.dff", "test/test1.txd")
 AddCharModel(2, 20013, "test/test2.dff", "test/test2.txd")
