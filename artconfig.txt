@@ -278,8 +278,8 @@ AddSimpleModel(-1, 19482, -4908, "weaponskin/non-finish/ak_tzin.dff", "weaponski
 
 AddSimpleModel(-1, 19482, -4909, "weaponskin/non-finish/m4_baoduy.dff", "weaponskin/non-finish/m4_baoduy.txd")
 
-AddSimpleModel(-1, 19482, -5001, "weaponskin/kaido/m4_kaido.dff", "weaponskin/kaido/m4_kaido.txd")
-AddSimpleModel(-1, 19482, -5002, "weaponskin/kaido/kaido.dff", "weaponskin/kaido/kaido.txd")
+AddSimpleModel(-1, 19482, -5001, "weaponskin/luffy/m4_luffy.dff", "weaponskin/luffy/m4_luffy.txd")
+AddSimpleModel(-1, 19482, -5002, "weaponskin/luffy/luffy.dff", "weaponskin/luffy/luffy.txd")
 
 AddSimpleModel(-1, 19482, -5003, "weaponskin/minions/m4_minions.dff", "weaponskin/minions/m4_minions.txd")
 AddSimpleModel(-1, 19482, -5004, "weaponskin/minions/minions.dff", "weaponskin/minions/minions.txd")
