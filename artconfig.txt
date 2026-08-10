@@ -153,6 +153,8 @@ AddCharModel(2, 20106, "skin/aod.dff", "skin/aod.txd")
 AddCharModel(2, 20116, "skin/dior.dff", "skin/dior.txd")
 //OG
 AddCharModel(2, 20125, "skin/gojomini.dff", "skin/gojomini.txd")
+//Immortal
+AddCharModel(2, 20133, "skin/immortal_skin.dff", "skin/immortal_skin.txd")
 
 AddCharModel(2, 21101, "skin/penguin.dff", "skin/penguin.txd")
 AddCharModel(2, 21102, "skin/hungcom.dff", "skin/hungcom.txd")
