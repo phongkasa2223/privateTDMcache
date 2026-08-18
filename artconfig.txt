@@ -124,6 +124,9 @@ AddCharModel(2, 20131, "private/kenhzz.dff", "private/kenhzz.txd")
 // Bao Linh
 AddCharModel(2, 20132, "private/baolinh.dff", "private/baolinh.txd")
 
+// Bad Bunny
+AddCharModel(2, 20135, "private/KotoriEfreet.dff", "private/KotoriEfreet.txd")
+
 // Guild
 //ROB
 AddCharModel(2, 20036, "skin/ROB.dff", "skin/ROB.txd")
