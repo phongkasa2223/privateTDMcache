@@ -420,6 +420,8 @@ AddSimpleModel(-1, 19482, -5113, "weaponskin/kurama/ak_kurama.dff", "weaponskin/
 AddSimpleModel(-1, 19482, -5114, "weaponskin/kurama/kurama.dff", "weaponskin/kurama/kurama.txd")
 AddSimpleModel(-1, 19482, -5115, "weaponskin/beach/ak_beach.dff", "weaponskin/beach/ak_beach.txd")
 AddSimpleModel(-1, 19482, -5116, "weaponskin/beach/beach.dff", "weaponskin/beach/beach.txd")
+AddSimpleModel(-1, 19482, -5117, "weaponskin/carrot/ak_carrot.dff", "weaponskin/carrot/ak_carrot.txd")
+AddSimpleModel(-1, 19482, -5118, "weaponskin/carrot/carrot.dff", "weaponskin/carrot/carrot.txd")
 
 // Mp5 weaponskin
 AddSimpleModel(-1, 19482, -5201, "weaponskin/dragon/mp5_dragon.dff", "weaponskin/dragon/mp5_dragon.txd")
