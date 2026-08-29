@@ -130,6 +130,9 @@ AddCharModel(2, 20135, "private/KotoriEfreet.dff", "private/KotoriEfreet.txd")
 // Asap Uotmi
 AddCharModel(2, 20136, "private/rimuru.dff", "private/rimuru.txd")
 
+// Pham Nam
+AddCharModel(2, 20137, "private/phamnam.dff", "private/phamnam.txd")
+
 // Guild
 //ROB
 AddCharModel(2, 20036, "skin/ROB.dff", "skin/ROB.txd")
