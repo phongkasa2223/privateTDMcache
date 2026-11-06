@@ -463,6 +463,19 @@ AddSimpleModel(-1, 19482, -1100, "objects/nhamay.dff", "objects/nhamay.txd")
 // Hotvitlon
 AddSimpleModel(-1, 19482, -2100, "objects/hotvitlon.dff", "objects/hotvitlon.txd")
 
+// Hospital Interior
+AddSimpleModel(-1, 1923, -2956, "hospital/0x6B66FE90.dff", "hospital/0xFE5BD36B.txd");
+AddSimpleModel(-1, 1923, -2957, "hospital/0x7C65DB0D.dff", "hospital/0x7A00FDA6.txd");
+AddSimpleModel(-1, 1923, -2958, "hospital/0x5044CE22.dff", "hospital/0xFE5BD36B.txd");
+AddSimpleModel(-1, 1923, -2959, "hospital/0xF58DDC0A.dff", "hospital/0xC06DDAEA.txd");
+AddSimpleModel(-1, 1923, -2960, "hospital/0x3B68C180.dff", "hospital/0xC06DDAEA.txd");
+AddSimpleModel(-1, 8674, -2961, "hospital/0x86B56A99.dff", "hospital/0x724D50DE.txd");
+AddSimpleModel(-1, 1923, -2962, "hospital/0x9DA2331A.dff", "hospital/0xFE5BD36B.txd");
+AddSimpleModel(-1, 1923, -2963, "hospital/0x16467600.dff", "hospital/0xC06DDAEA.txd");
+AddSimpleModel(-1, 8674, -2964, "hospital/0x5897334F.dff", "hospital/0x79A81D70.txd");
+AddSimpleModel(-1, 1923, -2965, "hospital/0x4B5C5695.dff", "hospital/0xC06DDAEA.txd");
+AddSimpleModel(-1, 1923, -2966, "hospital/0x14E32764.dff", "hospital/0xC06DDAEA.txd");
+
 // HQ
 AddSimpleModel(-1, 19482, -6001, "hq/osk/osk_hq1.dff", "hq/osk/osk_hq1.txd")
 AddSimpleModel(-1, 19482, -6002, "hq/osk/osk_hq2.dff", "hq/osk/osk_hq2.txd")
